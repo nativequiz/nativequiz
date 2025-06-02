@@ -11,7 +11,6 @@
 
 В пакете нет вопросов со ставками, аукционов и т.д. - что выбрали, то и играем.
 
-<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 Имя | Очки
 -- | --
 Александр Ан | 18900
@@ -64,7 +63,6 @@
 Юлия Захарова | 11000
 Юрий Дмитриев | -301
 Янина Еремеева | N/A
-<!--EndFragment-->
 
 #### **Кино #2**
 
@@ -78,7 +76,6 @@
 
 В пакете нет вопросов со ставками, аукционов и т.д. - что выбрали, то и играем.
 
-<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 Имя | Очки
 -- | --
 Александр Спиридонов | 0
@@ -101,7 +98,6 @@
 Софья Гагина | 14200
 Эля Могилкина | 17095
 Юрий Герега | 400
-<!--EndFragment-->
 
 #### **Кино #3**
 
@@ -114,11 +110,9 @@
 **Продолжительность:** 60-70 минут
 
 В пакете нет вопросов со ставками, аукционов и т.д. - что выбрали, то и играем.
-<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 Имя | Очки
 -- | --
 
-<!--EndFragment-->
 
 #### **Кино #4**
 
@@ -132,11 +126,9 @@
 
 В пакете нет вопросов со ставками, аукционов и т.д. - что выбрали, то и играем.
 
-<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 Имя | Очки
 -- | --
 
-<!--EndFragment-->
 
 #### **Кино #5**
 
@@ -150,11 +142,9 @@
 
 В пакете нет вопросов со ставками, аукционов и т.д. - что выбрали, то и играем.
 
-<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 Имя | Очки
 -- | --
 
-<!--EndFragment-->
 
 #### **Кино #6**
 
@@ -168,11 +158,9 @@
 
 В пакете нет вопросов со ставками, аукционов и т.д. - что выбрали, то и играем.
 
-<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 Имя | Очки
 -- | --
 
-<!--EndFragment-->
 
 #### **Кино #7**
 
@@ -186,11 +174,9 @@
 
 В пакете нет вопросов со ставками, аукционов и т.д. - что выбрали, то и играем.
 
-<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 Имя | Очки
 -- | --
 
-<!--EndFragment-->
 
 
 <!-- tabs:end -->

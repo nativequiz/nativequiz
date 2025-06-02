@@ -11,7 +11,6 @@
 
 В пакете нет вопросов со ставками, аукционов и т.д. - что выбрали, то и играем.
 
-<!--StartFragment--><google-sheets-html-origin><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
 Имя | Очки
 -- | --
 Александр Спиридонов | 2400
@@ -44,6 +43,5 @@
 Сергей Терентьев | N/A
 Эля Могилкина | 15601
 Юля Хасанова | 100
-<!--EndFragment-->
 
 <!-- tabs:end -->
