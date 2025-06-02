@@ -10,6 +10,17 @@
 body:not(.ready) {
   overflow-x: hidden;
 }
+body::-webkit-scrollbar {
+  width: 12px;               /* ширина scrollbar */
+}
+body::-webkit-scrollbar-track {
+  background: white;        /* цвет дорожки */
+}
+body::-webkit-scrollbar-thumb {
+  background-color: white;    /* цвет плашки */
+  border-radius: 20px;       /* закругления плашки */
+  border: 3px solid grey;  /* padding вокруг плашки */
+}
 body:not(.ready) [data-cloak],
 body:not(.ready) .app-nav,
 body:not(.ready) > nav {
